@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">GB_Calc</string>
+    <string name="app_name">CALCULATOR</string>
+    <string name="b_1">1</string>
+    <string name="b_2">2</string>
+    <string name="b_3">3</string>
+    <string name="b_4">4</string>
+    <string name="b_5">5</string>
+    <string name="b_6">6</string>
+    <string name="b_7">7</string>
+    <string name="b_8">8</string>
+    <string name="b_9">9</string>
+    <string name="b_0">0</string>
+    <string name="b_dot">.</string>
+    <string name="b_equal">=</string>
+    <string name="b_plus">+</string>
+    <string name="b_minus">-</string>
+    <string name="b_div">/</string>
+    <string name="b_mult">*</string>
+    <string name="b_del">DEL</string>
 </resources>
